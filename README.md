@@ -59,6 +59,7 @@
 - The code is dynamic in nature. 
 - To load the csv file for running the function in the notebook, replace the variable "csv_path" with actual file path. 
 - Also, any changes made to JSON data such as changing the "is_selected" feature to true will not have any issues. 
+- The code also runs if the feature reduction method is changed to any of the following - No Reduction, Corr with Target, PCA. 
 
 ## Author
 [Yash Kulkarni](https://github.com/Ykulkarni-ops)
