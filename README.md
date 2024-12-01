@@ -6,7 +6,7 @@
     - I have used library striprtf to convert the rtf file to plain text file and then converted the plain text file to JSON. 
     - Once the file is converted to JSON I have used "json" library in python to parse the JSON data. 
     - The sample of JSON data is given below:</br>
-<img src = "https://github.com/Ykulkarni-ops/iris_flower_classification/blob/main/images/parsed_json.png" width = 300 title ="parsed_json" /></br>
+<img src = "https://github.com/Ykulkarni-ops/iris_flower_classification/blob/main/images/parsed_json.png" width = 500  title ="parsed_json" /></br>
 
 
 
