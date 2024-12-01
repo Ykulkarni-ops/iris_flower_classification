@@ -2,6 +2,7 @@
 
 ## Project pipeline
 - For Iris flower classification I have used google colab. I have uploaded the zip file to google drive and made some changes to the namings to make the files usable with ease. 
+<img src = "https://github.com/Ykulkarni-ops/iris_flower_classification/blob/main/images/workflow.png" width = 700  title ="parsed_json" /></br>
 - **Step 1**:
     - The first step in this project was to retrive the JSON data through an rtf file. 
     - I have used library striprtf to convert the rtf file to plain text file and then converted the plain text file to JSON. 
