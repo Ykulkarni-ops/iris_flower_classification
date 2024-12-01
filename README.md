@@ -45,3 +45,19 @@
     - After all models are executed, it find the best model, best metrics and best hyperparameters, which are logged to the console.
     - The output is given below.</br>
 <img src = "https://github.com/Ykulkarni-ops/iris_flower_classification/blob/main/images/grid_search.png" width = 700  title ="parsed_json" /></br>
+
+## Dependancies 
+- json==2.0.9
+- striprtf==0.0.27
+- logging==0.5.1.2
+- pandas==2.2.2
+- numpy==1.26.4
+- scikit-learn==1.5.2
+
+## Instructions 
+- The code is dynamic in nature. 
+- To load the csv file for running the function in the notebook, replace the variable "csv_path" with actual file path. 
+- Also, any changes made to JSON data such as changing the "is_selected" feature to true will not have any issues. 
+
+## Author
+[Yash Kulkarni](https://github.com/Ykulkarni-ops)
