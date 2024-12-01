@@ -1,6 +1,7 @@
 # Iris Flower classification using JSON
 
 ## Project pipeline
+- The project includes the tasks to read the data from JSON file provided and make use of iris.csv to parse the data, read target and prediction type, feature handling, feature reduction and fit, predict. It also includes hyperparameter tuning with GridSearchCV. 
 - For Iris flower classification I have used google colab. I have uploaded the zip file to google drive and made some changes to the namings to make the files usable with ease. 
 <img src = "https://github.com/Ykulkarni-ops/iris_flower_classification/blob/main/images/workflow.png" width = 700  title ="parsed_json" /></br>
 - **Step 1**:
